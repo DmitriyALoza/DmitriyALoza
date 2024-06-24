@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Dmitriy Loza, I am from Russia and am currently working in Cancer Research as a Data Scientist
-- 👀 I’m interested in developing computer vision deep learning models
+- 👀 I’m interested in developing machine learning and deep learning models for Biongineering applications
+- 💻 Currently learning about Computer Vision and tracking algorithms
 - 🌱 MBE Bioengineering (Rice University), B.S. Biochemistry (w/ minor Biomedical Engineering and Russian) (University of Tulsa)
 
 <!---
