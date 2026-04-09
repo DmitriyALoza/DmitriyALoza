@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Dmitriy Loza and I'm currently working in Cancer Research as a Data Scientist/AI Engineer
-- 👀 I’m interested in developing Machine Learning and Deep Learning models for Biongineering applications
-- 💻 Currently specializing in Large Language Models, Generative AI and Computer Vision 
+- 👋 Hi, my name is Dmitriy Loza and I'm an AI Engineer
+- 👀 I’m interested in developing ML, DL and Gen AI Biongineering applications
+- 💻 Currently specializing in Agentic AI, Large Language Models and Computer Vision 
 - 🌱 MBE Bioengineering (Rice University), B.S. Biochemistry (w/ minor Biomedical Engineering and Russian) (University of Tulsa)
 
 <!---
